@@ -31,8 +31,8 @@ Essas experiências me deram uma base sólida de disciplina e comunicação, que
 ## 📫 Contato
 
 <!-- Adicione aqui seus links de contato, por exemplo: -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](SEU_LINK) -->
-<!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](SEU_LINK) -->
+<!-- [![LinkedIn[]https://www.linkedin.com/in/matheus-rodrigues-74b091306/](https://github.com/matheusfut123-ui))](SEU_LINK) -->
+<!-- [![GitHub](https://github.com/matheusfut123-ui)](SEU_LINK) -->
 
 ---
 ⭐️ Este README foi criado como parte do lab de contribuição Open Source da [Digital Innovation One](https://github.com/digitalinnovationone/dio-lab-open-source).
